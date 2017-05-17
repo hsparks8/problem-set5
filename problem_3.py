@@ -2,6 +2,7 @@
 
 #3. most common hexamer
 
+import sys
 
 filename = sys.argv[1]
 
